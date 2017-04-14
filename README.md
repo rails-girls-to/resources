@@ -24,6 +24,7 @@ Pull requests are welcome!
 ## Other  
 * http://iwanttolearnruby.com/
 * http://ruby-doc.org/ 
+* https://github.com/unicodeveloper/awesome-opensource-apps#rails
 
 # Rails 
 ## Courses and Tutorials 
@@ -43,6 +44,10 @@ Pull requests are welcome!
 * http://railsbridge.org/learn/resources
 * http://guides.rubyonrails.org
 * http://railsapps.github.io/what-is-ruby-rails.html 
+
+# RSpec 
+* https://github.com/eliotsykes/rspec-rails-examples 
+* https://github.com/eliotsykes/rspec-katas 
 
 # Toronto Meetups 
 * https://www.meetup.com/railsgirlsTO/ 
