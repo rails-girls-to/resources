@@ -53,6 +53,9 @@ Pull requests are welcome!
 * https://github.com/eliotsykes/rspec-rails-examples
 * https://github.com/eliotsykes/rspec-katas
 
+## Git 
+* http://bettymakes.github.io/gitting-started/
+
 ## Toronto Meetups
 * https://www.meetup.com/railsgirlsTO/
 * https://www.meetup.com/torontoruby/
